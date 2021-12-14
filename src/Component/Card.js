@@ -19,7 +19,7 @@ export default function ActionAreaCard({sortmovie,filteredFilm,sliderbar}){
 
   const {movies} =useContext(CardContext)  
 
-  console.log("DD : ", filteredFilm);
+  
   function shuffle(array) {
     let currentIndex = array.length,
       randomIndex;
