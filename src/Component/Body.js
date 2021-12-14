@@ -18,7 +18,7 @@ function Body() {
       <div style={{ fontFamily: "Roboto" }}>
         <div style={{ marginTop: 20 }}>
           
-    
+     
           <Accord  sortmovie={sortmovie}
            setSortMovie={setSortMovie}
            filteredFilm={filteredFilm} 
